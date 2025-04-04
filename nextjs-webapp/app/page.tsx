@@ -6,8 +6,7 @@ export default function Home() {
         <h1 className="text-4xl font-bold">AQUANODE</h1>
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-            Deploy at cheaper prices{" "}
-            .
+            Deploy at cheaper prices
           </li>
           <li>Pay flexibly with crypto or fiat</li>
         </ol>
